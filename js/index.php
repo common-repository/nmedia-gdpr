@@ -1,0 +1,3 @@
+<?php
+/**
+** Slince is gold ....
